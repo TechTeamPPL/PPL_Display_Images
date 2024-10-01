@@ -2,9 +2,9 @@
 <rss version="2.0">
 
 <channel>
-  <title>Gerneral Display</title>
+  <title> Display</title>
   <link></link>
-  <description>Community Table</description>
+  <description> Table</description>
     <item>
     <title></title>
     <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Community%20Table/Seaton Rec.png</link>
@@ -24,6 +24,10 @@
   </item>  <item>
     <title></title>
     <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Community%20Table/Ovee Hitting the Road.png</link>
+    <description>N/A</description>
+  </item>  <item>
+    <title></title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Community%20Table/javen-yang-MWZi4XTIsKA-unsplash.jpg</link>
     <description>N/A</description>
   </item>
 </channel>
