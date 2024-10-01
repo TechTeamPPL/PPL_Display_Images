@@ -1,1 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
 
+<channel>
+  <title>Gerneral Display</title>
+  <link></link>
+  <description>General Display</description>
+    <item>
+    <title></title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Comuters/I Love My Library (2).png</link>
+    <description>N/A</description>
+  </item>  <item>
+    <title></title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Comuters/Product of the Month September.png</link>
+    <description>N/A</description>
+  </item>  <item>
+    <title></title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Comuters/Seed Library (2).png</link>
+    <description>N/A</description>
+  </item>  <item>
+    <title></title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Comuters/Hitting the Road.png</link>
+    <description>N/A</description>
+  </item>
+</channel>
+
+</rss>
