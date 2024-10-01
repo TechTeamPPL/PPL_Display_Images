@@ -2,24 +2,28 @@
 <rss version="2.0">
 
 <channel>
-  <title>Gerneral Display</title>
+  <title>Public Computers Display</title>
   <link></link>
-  <description>General Display</description>
+  <description>Public Computers Display</description>
     <item>
     <title></title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Comuters/I Love My Library (2).png</link>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/I Love My Library (2).png</link>
     <description>N/A</description>
   </item>  <item>
     <title></title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Comuters/Product of the Month September.png</link>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/Product of the Month September.png</link>
     <description>N/A</description>
   </item>  <item>
     <title></title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Comuters/Seed Library (2).png</link>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/Seed Library (2).png</link>
     <description>N/A</description>
   </item>  <item>
     <title></title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Comuters/Hitting the Road.png</link>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/Hitting the Road.png</link>
+    <description>N/A</description>
+  </item>  <item>
+    <title></title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/I Love My Library.png</link>
     <description>N/A</description>
   </item>
 </channel>
