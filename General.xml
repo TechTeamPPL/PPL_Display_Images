@@ -2,16 +2,24 @@
 <rss version="2.0">
 
 <channel>
-  <title>Gerneral Display</title>
+  <title>General Display</title>
   <link></link>
-  <description>General Display</description>
+  <description>GeneralDisplay</description>
     <item>
     <title></title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/shifaaz-shamoon-oR0uERTVyD0-unsplash.jpg</link>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/I Love My Library (2).png</link>
     <description>N/A</description>
   </item>  <item>
     <title></title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/bailey-zindel-NRQV-hBF10M-unsplash.jpg</link>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Hitting the Road.png</link>
+    <description>N/A</description>
+  </item>  <item>
+    <title></title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Seed Library (2).png</link>
+    <description>N/A</description>
+  </item>  <item>
+    <title></title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Product of the Month September.png</link>
     <description>N/A</description>
   </item>
 </channel>
