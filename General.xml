@@ -3,18 +3,18 @@
 
 <channel>
   <title>General Display</title>
-  <link></link>
+  <link>https://pickeringpubliclibrary.ca</link>
   <description>GeneralDisplay</description>
     <item>
-    <title></title>
+    <title>title1</title>
     <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Ovee_Schedule.png</link>
     <description>N/A</description>
   </item>  <item>
-    <title></title>
+    <title>title2</title>
     <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Extended_Access.png</link>
     <description>N/A</description>
   </item>  <item>
-    <title></title>
+    <title>title3</title>
     <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Thanksgiving%20Holiday%20Hours%20.png</link>
     <description>N/A</description>
   </item>
