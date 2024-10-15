@@ -2,20 +2,24 @@
 <rss version="2.0">
 
 <channel>
-  <title>GeneralDisplay</title>
-  <link>https://pickeringpubliclibrary.ca</link>
+  <title>General Display</title>
+  <link></link>
   <description>GeneralDisplay</description>
     <item>
-    <title>title1</title>
+    <title></title>
     <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Ovee_Schedule.png</link>
     <description>N/A</description>
   </item>  <item>
-    <title>title2</title>
+    <title></title>
     <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Extended_Access.png</link>
     <description>N/A</description>
   </item>  <item>
-    <title>title3</title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Thanksgiving_Holiday_Hours.png</link>
+    <title></title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Homework_Help_.png</link>
+    <description>N/A</description>
+  </item>  <item>
+    <title></title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Seaton_Rec_Complex.png</link>
     <description>N/A</description>
   </item>
 </channel>
