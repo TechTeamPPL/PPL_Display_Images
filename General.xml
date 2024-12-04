@@ -7,10 +7,6 @@
   <description>GeneralDisplay</description>
     <item>
     <title></title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Your_Experience_Matters_Survey.png</link>
-    <description>N/A</description>
-  </item>  <item>
-    <title></title>
     <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Consumer_Reports.png</link>
     <description>N/A</description>
   </item>  <item>
@@ -23,7 +19,7 @@
     <description>N/A</description>
   </item>  <item>
     <title></title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Suggest_for_Purchase_.png</link>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Suggest_for_Purchase.png</link>
     <description>N/A</description>
   </item>
 </channel>
