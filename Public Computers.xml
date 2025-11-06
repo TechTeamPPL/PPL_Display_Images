@@ -7,15 +7,19 @@
   <description>Public Computers Display</description>
     <item>
     <title></title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/halloween_books_for_kids.png</link>
-    <description>N/A</description>
-  </item>  <item>
-    <title></title>
     <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/Homework_Help.png</link>
     <description>N/A</description>
   </item>  <item>
     <title></title>
     <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/Book_Sale0.png</link>
+    <description>N/A</description>
+  </item>  <item>
+    <title></title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/o.png</link>
+    <description>N/A</description>
+  </item>  <item>
+    <title></title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/first_pick_pass_.png</link>
     <description>N/A</description>
   </item>
 </channel>
