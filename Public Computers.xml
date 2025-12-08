@@ -7,7 +7,15 @@
   <description>Public Computers Display</description>
     <item>
     <title></title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/Voices-of-Barbados.png</link>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/Give_the_Gift.png</link>
+    <description>N/A</description>
+  </item>  <item>
+    <title></title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/Short_Reads.png</link>
+    <description>N/A</description>
+  </item>  <item>
+    <title></title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/Holiday_Hours_01.png</link>
     <description>N/A</description>
   </item>
 </channel>
