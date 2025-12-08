@@ -7,7 +7,15 @@
   <description>GeneralDisplay</description>
     <item>
     <title></title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Monthly-Donor.png</link>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Holiday_Hours.png</link>
+    <description>N/A</description>
+  </item>  <item>
+    <title></title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Give_the_Gift.png</link>
+    <description>N/A</description>
+  </item>  <item>
+    <title></title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Short_Reads_01.png</link>
     <description>N/A</description>
   </item>
 </channel>
