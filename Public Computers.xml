@@ -5,13 +5,13 @@
   <title>Public Computers Display</title>
   <link></link>
   <description>Public Computers Display</description>
-  <item>
-    <title>Public</title>
+    <item>
+    <title></title>
     <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/Voices_of_Barbados.png</link>
     <description>N/A</description>
-  </item>   <item>
-    <title>Public</title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/Voices_of_Barbados.png</link>
+  </item>  <item>
+    <title></title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/PPL-logo-vertical-colour.png</link>
     <description>N/A</description>
   </item>
 </channel>
