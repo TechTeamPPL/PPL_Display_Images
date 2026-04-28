@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
+
 <channel>
   <title>General Display</title>
   <link></link>
   <description>GeneralDisplay</description>
-  <item>
-    <title></title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/LinkedIn_Learning.png</link>
-    <description>N/A</description>
-  </item>
-  <item>
-    <title>In Library Screens - Lobby &amp; Other Screens - first pick pass</title>
+    <item>
+    <title>General</title>
     <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/first_pick_pass.png</link>
     <description>N/A</description>
-  </item>
-  <item>
-    <title>In Library Screens - Lobby &amp; Other Screens - Facilities 10-Year Plan</title>
+  </item>  <item>
+    <title>General</title>
     <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Facilities_10-Year_Plan.png</link>
     <description>N/A</description>
-  </item>
-  <item>
-    <title>In Library Screens - Lobby &amp; Other Screens - book sale</title>
+  </item>  <item>
+    <title>General</title>
     <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/book_sale_123.png</link>
+    <description>N/A</description>
+  </item>  <item>
+    <title>General</title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Books_by_Black_Canadian_Authors.png</link>
     <description>N/A</description>
   </item>
 </channel>
+
 </rss>
