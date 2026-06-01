@@ -6,16 +6,16 @@
   <link></link>
   <description>Public Computers Display</description>
     <item>
-    <title>In Library Screens  - Lobby & Other Screens  - Read Africa Month</title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/Read_Africa_Month_01.png</link>
-    <description>N/A</description>
-  </item>  <item>
-    <title>In Library Screens  - Lobby & Other Screens  - Hidden Disability</title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/Hidden_Disability.png</link>
-    <description>N/A</description>
-  </item>  <item>
     <title>In Library Screens  - Lobby & Other Screens  - Leave your mark</title>
     <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/Leave_your_mark.png</link>
+    <description>N/A</description>
+  </item>  <item>
+    <title>The next Municipal Election is on October 26, 2026. - 1</title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/2026Election_General_LibraryScreen.png</link>
+    <description>N/A</description>
+  </item>  <item>
+    <title>In Library Screens  - Lobby & Other Screens  - Happy Pride Month</title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/Public%20Computers/Happy_Pride_Month_(1).png</link>
     <description>N/A</description>
   </item>
 </channel>
