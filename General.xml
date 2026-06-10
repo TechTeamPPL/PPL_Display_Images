@@ -7,19 +7,15 @@
   <description>GeneralDisplay</description>
     <item>
     <title>General</title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Leave_your_mark.png</link>
-    <description>N/A</description>
-  </item>  <item>
-    <title>General</title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Hidden_Disability_01.png</link>
-    <description>N/A</description>
-  </item>  <item>
-    <title>General</title>
     <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Happy_Pride_Month.png</link>
     <description>N/A</description>
   </item>  <item>
     <title>General</title>
-    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/2026Election_General_LibraryScreen.png</link>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Seed_Library_01.png</link>
+    <description>N/A</description>
+  </item>  <item>
+    <title>General</title>
+    <link>https://raw.githubusercontent.com/TechTeamPPL/PPL_Display_Images/main/General/Block_Party.png</link>
     <description>N/A</description>
   </item>
 </channel>
